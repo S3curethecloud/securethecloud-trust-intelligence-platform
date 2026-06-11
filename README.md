@@ -6,7 +6,7 @@ This repository is intended to support AI-assisted trust operations using enterp
 
 ## Status
 
-Phase 0 — Doctrine Alignment / Platform Charter Gate
+Phase 0 - Doctrine Alignment / Platform Charter Gate
 
 ## Core Principle
 
