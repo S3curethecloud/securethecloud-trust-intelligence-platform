@@ -1,6 +1,6 @@
 # Phase 3 — Non-Runtime Reference Architecture / Evidence Flow Gate
 
-Status: Implementation In Progress
+Status: Evidence Recorded
 
 ## Objective
 
@@ -32,9 +32,9 @@ Forbidden:
 
 ## Completion Checklist
 
-- [ ] reference architecture defined
-- [ ] evidence flow defined
-- [ ] data boundary model defined
-- [ ] integration boundary model defined
-- [ ] non-runtime constraints recorded
-- [ ] Phase 3 evidence recorded
+- [x] reference architecture defined
+- [x] evidence flow defined
+- [x] data boundary model defined
+- [x] integration boundary model defined
+- [x] non-runtime constraints recorded
+- [x] Phase 3 evidence recorded
