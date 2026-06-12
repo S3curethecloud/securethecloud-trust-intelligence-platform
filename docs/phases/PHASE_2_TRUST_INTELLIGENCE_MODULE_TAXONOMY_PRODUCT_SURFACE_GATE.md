@@ -1,6 +1,6 @@
 # Phase 2 — Trust Intelligence Module Taxonomy / Product Surface Gate
 
-Status: Implementation In Progress
+Status: Evidence Recorded
 
 ## Objective
 
@@ -40,9 +40,9 @@ Forbidden:
 
 ## Completion Checklist
 
-- [ ] module taxonomy defined
-- [ ] product surface defined
-- [ ] user personas defined
-- [ ] navigation model defined
-- [ ] capability mapping defined
-- [ ] Phase 2 evidence recorded
+- [x] module taxonomy defined
+- [x] product surface defined
+- [x] user personas defined
+- [x] navigation model defined
+- [x] capability mapping defined
+- [x] Phase 2 evidence recorded
